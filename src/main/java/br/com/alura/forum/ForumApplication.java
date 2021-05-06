@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ForumApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Application is Running");
 		SpringApplication.run(ForumApplication.class, args);
 	}
 
