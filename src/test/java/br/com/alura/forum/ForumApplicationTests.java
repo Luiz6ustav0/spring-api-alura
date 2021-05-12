@@ -12,7 +12,6 @@ class ForumApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assert.assertTrue(true);
 	}
 
 }
